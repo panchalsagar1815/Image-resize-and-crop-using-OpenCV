@@ -1,0 +1,1 @@
+# Image-resize-and-crop-using-OpenCV
